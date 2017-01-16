@@ -1,0 +1,16 @@
+﻿body{
+	background-color: #ffa64d;
+}
+
+.orangeJumbo{
+    background-color: #ffa64d;
+}
+
+.tabs{
+    color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 225px;
+    height:195px;
+}

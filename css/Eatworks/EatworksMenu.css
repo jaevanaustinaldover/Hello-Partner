@@ -1,0 +1,69 @@
+﻿body{
+	background-color: #ffa64d;
+}
+
+.orangeJumbo{
+    background-color: #ffa64d;
+}
+
+.mainmeat{
+        color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+}
+
+.mainpoultry{
+            color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+}
+
+.mainseafood{
+            color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+}
+
+.mainvegatable{
+            color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+}
+
+.mainfruit{
+            color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+}
+
+.meat1{
+    color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 260px;
+    height:30px;
+}
+
+.meat2{
+    color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 275px;
+    height:30px;
+}
+
+.meat3{
+    color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 143px;
+    height:30px;
+}

@@ -1,0 +1,37 @@
+body{
+	background-color: #ffa64d;
+}
+
+.orangeJumbo{
+    background-color: #ffa64d;
+}
+
+.green1{
+	color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 450px;
+    height:45px;
+}
+
+.green2{
+    color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 345px;
+    height:35px;
+}
+
+.green3{
+    color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 475px;
+    height: 25px;
+}
+
+.fixedstatic{
+}

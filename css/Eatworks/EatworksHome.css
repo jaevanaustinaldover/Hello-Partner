@@ -1,0 +1,25 @@
+﻿body{
+	background-color: #ffa64d;
+}
+
+.orangeJumbo{
+    background-color: #ffa64d;
+}
+
+.jumbogreen1{
+    color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 170px;
+    height:45px;
+}
+
+.heading1{
+    color:green;
+	border-style: solid;
+	border-color: #ff6600;
+	background-color: #daffb3;
+    width: 400px;
+    height:75px;
+}
